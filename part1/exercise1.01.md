@@ -1,4 +1,4 @@
-## Part 1 exercise 1
+## Part 1 exercise 1: 'Log output'
 
 Click [here](https://github.com/sainioan/randomStringGenerator.git) to go to my the app repository. 
 ### Command to create a cluster:
