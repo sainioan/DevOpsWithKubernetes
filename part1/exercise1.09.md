@@ -35,5 +35,5 @@ spec:
 
 4. Test the applicaation 'http://localhost:8081/pingpong'
 
-![PingPong](https://github.com/sainioan/DevOpsWithKubernetes/blob/main/part1/pingpong.jpg)
+![PingPong](https://github.com/sainioan/DevOpsWithKubernetes/blob/main/part1/pingpong.jpg =250x)
 
