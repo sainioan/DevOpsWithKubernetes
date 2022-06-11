@@ -35,4 +35,4 @@ spec:
 
 4. Test the applicaation 'http://localhost:8081/pingpong'
 
-<img src="https://github.com/sainioan/DevOpsWithKubernetes/blob/main/part1/pingpong.jpg" width="200" height="200" />
+<img src="https://github.com/sainioan/DevOpsWithKubernetes/blob/main/part1/pingpong.jpg" width="400" height="200" />
