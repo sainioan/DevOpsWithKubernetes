@@ -18,7 +18,16 @@ Forwarding from 127.0.0.1:5000 -> 5000
 Forwarding from [::1]:5000 -> 5000
 
 ```
-5.  Comannd to get the contents of the simple webpage `curl localhost:5000/GET`
+5.  Command to get the contents of the simple webpage `curl localhost:5000/GET`
 ```
- Check `curl localhost:5678`
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /</pre>
+</body>
+</html>
  ```
