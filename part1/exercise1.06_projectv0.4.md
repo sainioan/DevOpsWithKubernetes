@@ -1,4 +1,6 @@
 
+# Part 1 exercise 6: Project v0.4: 'Todo'
+
 1. Delete previous cluster `k3d cluster delete`
 
 2. Command to open local 8081 to 80 in k3d-k3s-default-serverlb and local 8082 to 30080 in k3d-k3s-default-agent-0 `k3d cluster create --port 8082:30080@agent:0 -p 8081:80@loadbalancer --agents 2'
